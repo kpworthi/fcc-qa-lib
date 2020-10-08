@@ -4,6 +4,10 @@
   margin: 10px;
 }
 
+body {
+  background-color: beige;
+}
+
 #sampleui {
   max-width: 450px;
   margin-left: 5%;
